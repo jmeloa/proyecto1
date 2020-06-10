@@ -33,12 +33,18 @@ logo {
   background-size: 100%;
   color: #ffffff;
   /*text-shadow: 0.125em 0.25em 0.125em #707070;*/
-  padding-top: 32.25rem;
-  padding-bottom: 3rem;
+  padding-top: 20%;
+  padding-bottom: 3%;
 
 }
 
 
+.logo:before  {
+  content: "M";
+  color: white;
+
+  font-size: 37pt;
+  }
 
 .colorn {
   border-color:  #373A3C;
@@ -56,7 +62,7 @@ logo {
 
 h2 {
   font-family: 'Open-Sans', sans-serif;
-  font-size: 16pt;
+  font-size: 1.0em;
 }
 
 .icon{
