@@ -1,0 +1,52 @@
+
+body {
+  /*font-family: 'Open Sans', sans-serif;*/
+  font-family: 'Oswald', sans-serif;
+  color: #373A3C;
+}
+
+.lineacolor {
+  color: #373A3C;
+}
+
+
+
+a {
+  font-family: 'Open-Sans', sans-serif;
+}
+
+logo {
+  font-size: 400px;
+
+}
+
+
+.fondo {
+  background-color: #660066;
+}
+
+
+.hero-section {
+  text-align: center;
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: #ffffff;
+  /*text-shadow: 0.125em 0.25em 0.125em #707070;*/
+  padding-top: 32.25rem;
+  padding-bottom: 3rem;
+
+}
+
+
+.h1 {
+  font-weight: 800;
+  font-size: 3.75em;
+  margin-bottom: 0.25em;
+}
+
+
+h2 {
+  font-family: 'Open-Sans', sans-serif;
+  font-size: 16pt;
+}
