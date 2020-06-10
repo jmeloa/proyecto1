@@ -39,10 +39,18 @@ logo {
 }
 
 
+
+.colorn {
+  border-color:  #373A3C;
+  color: #373A3C;
+  border-width: 2px;
+}
+
 .h1 {
   font-weight: 800;
   font-size: 3.75em;
   margin-bottom: 0.25em;
+
 }
 
 
