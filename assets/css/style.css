@@ -50,3 +50,9 @@ h2 {
   font-family: 'Open-Sans', sans-serif;
   font-size: 16pt;
 }
+
+.icon{
+display: inline-block;
+text-align: center;
+color: #660066;
+}
